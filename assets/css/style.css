@@ -4,8 +4,11 @@ body {
 #heading {
     padding: 10px;
 }
-#main-container {
+.main-container {
     margin-bottom: 80px;
+}
+#contact-container {
+    height: 485px;
 }
 .card-header {
     font-size: 30px;
@@ -18,6 +21,17 @@ body {
 p {
     line-height: 27px;
     color: white;
+}
+#name-input-head {
+    margin-top: 5px;
+}
+#exampleFormControlInput1 {
+    background-image: url(../images/darkness.png);
+    border: 0px;
+}
+#exampleFormControlTextarea1 {
+    background-image: url(../images/darkness.png);
+    border: 0px;
 }
 #footer {
     margin-top: 60px;
