@@ -27,14 +27,13 @@ p {
 }
 #exampleFormControlInput1 {
     background-image: url(../images/darkness.png);
+    color: #999d9d;
     border: 0px;
 }
 #exampleFormControlTextarea1 {
     background-image: url(../images/darkness.png);
+    color: #999d9d;
     border: 0px;
-}
-#footer {
-    margin-top: 60px;
 }
 @media screen and (max-width: 640px) {
     .card-header {
