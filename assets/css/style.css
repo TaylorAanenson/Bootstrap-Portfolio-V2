@@ -1,0 +1,24 @@
+body {
+    background-image: url(../images/darkness.png);  
+}
+#heading {
+    padding: 10px;
+}
+#main-container {
+    margin-bottom: 80px;
+}
+#about-img {
+    width: 400px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+}
+p {
+    line-height: 27px;
+    color: white;
+}
+#footer {
+    margin-top: 60px;
+}
+#copyright {
+
+}
