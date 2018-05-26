@@ -7,6 +7,9 @@ body {
 #main-container {
     margin-bottom: 80px;
 }
+.card-header {
+    font-size: 30px;
+}
 #about-img {
     width: 400px;
     margin-right: 20px;
@@ -19,6 +22,8 @@ p {
 #footer {
     margin-top: 60px;
 }
-#copyright {
-
+@media screen and (max-width: 640px) {
+    .card-header {
+        font-size: 16px;
+    }
 }
