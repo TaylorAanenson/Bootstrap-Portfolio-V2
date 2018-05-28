@@ -22,17 +22,20 @@ p {
     line-height: 27px;
     color: white;
 }
+.contact-heads {
+    color: #999d9d;
+}
 #name-input-head {
     margin-top: 5px;
 }
 #exampleFormControlInput1 {
     background-image: url(../images/darkness.png);
-    color: #999d9d;
+    color: white;
     border: 0px;
 }
 #exampleFormControlTextarea1 {
     background-image: url(../images/darkness.png);
-    color: #999d9d;
+    color: white;
     border: 0px;
 }
 @media screen and (max-width: 640px) {
