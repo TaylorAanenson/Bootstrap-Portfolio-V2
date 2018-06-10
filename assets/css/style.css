@@ -21,6 +21,10 @@ body {
 p {
     line-height: 27px;
 }
+#psychic-game {
+    text-decoration: none;
+    color: white;
+}
 .contact-heads {
     color: #999d9d;
 }
