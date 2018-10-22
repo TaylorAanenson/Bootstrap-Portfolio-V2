@@ -151,6 +151,9 @@ p {
 #footer {
 	margin-top: 3.2rem;
 }
+#contact-footer {
+	margin-top: 1.3rem;
+}
 #rotate {
 	animation: rotate 0.5s;
 }
